@@ -1,0 +1,4 @@
+specVersion: '2.6'
+metadata:
+  name: openui_sdm_demo
+type: application
